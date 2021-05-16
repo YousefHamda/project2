@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190515
 MAINTAINER Jesus Prieto Lopez <jesusgorillo@gmail.com>
 
 #Actualizar los repositorios
